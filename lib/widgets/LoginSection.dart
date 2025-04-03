@@ -31,7 +31,7 @@ class LoginSection extends StatelessWidget {
             SizedBox(height: 16),
             Container(
               decoration: BoxDecoration(
-                  borderRadius: BorderRadius.circular(8), // da
+                  borderRadius: BorderRadius.circular(8),
                 color: CustomColor("#34CE42").color,
               ),
               width: double.infinity,
